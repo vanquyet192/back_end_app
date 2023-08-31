@@ -16,6 +16,6 @@ if (!\class_exists(App_KernelDevDebugContainer::class, false)) {
 
 return new \ContainerXIP2FcU\App_KernelDevDebugContainer([
     'container.build_hash' => 'XIP2FcU',
-    'container.build_id' => '0df28f8e',
-    'container.build_time' => 1693458341,
+    'container.build_id' => '4ee3d7ba',
+    'container.build_time' => 1693460739,
 ], __DIR__.\DIRECTORY_SEPARATOR.'ContainerXIP2FcU');
